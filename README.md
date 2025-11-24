@@ -5,13 +5,9 @@ Live demo, event logs, and a system you can actually run—see architecture, add
 
 ***
 
-## 3) Submission Checklist
+### Deployed Site Link
 
-- [x] **README** with: problem → solution → demo steps
-- [x] **Deployed addresses + explorers (L2):**
-  - **Payment Router:** [`0x64c967a9c70ec3c9522c722aa83810b039baae0d`](https://sepolia.arbiscan.io/address/0x64c967a9c70ec3c9522c722aa83810b039baae0d)
-  - **Cost Splitter:** [`0x961e2a92c7007ffdc8c76a5f5c8bcb824b03f7b2`](https://sepolia.arbiscan.io/address/0x961e2a92c7007ffdc8c76a5f5c8bcb824b03f7b2)
-- [x] **Video (≤90s):** [https://youtube.com/@akamysteryeditor4736?si=RrEAmimzlv38LPLo]
+- [x] **Working Demo Site** [https://agentswarm.netlify.app/]
 
 ***
 
